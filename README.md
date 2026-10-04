@@ -104,11 +104,11 @@ A aplicação é dividida em 3 abas principais e um painel de consulta lateral:
 Faça o download dos arquivos do projeto ou clone o repositório utilizando o Git:
 
 ```Bash
-git clone https://github.com/IMoisasZ/envio_emails_em_massa_com_streamlit.git
-cd envio_emails_em_massa_com_streamlit
+git clone https://github.com/IMoisasZ/envio_holerites_com_streamlit.git
+cd envio_holerites_com_streamlit
 ```
 
-> [Clique aqui para acessar o repositorio](https://github.com/IMoisasZ/envio_emails_em_massa_com_streamlit.git)
+> [Clique aqui para acessar o repositorio](https://github.com/IMoisasZ/envio_holerites_com_streamlit.git)
 
 ### 📦 2. Instalar as Bibliotecas Dependentes
 
