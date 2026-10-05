@@ -347,7 +347,7 @@ with tab_disparo:
                     dados_usuarios=pd.read_csv("colaboradores.csv", dtype={"Matricula": str}),
                     empresa_selecionada=empresa_selecionada,
                     mes_referencia=mes_val,
-                    Nome_remetente=Nome_rem_val,
+                    nome_remetente=Nome_rem_val,
                     remetente_email=rem_val,
                     senha_app=senha_val
                 )
