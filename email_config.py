@@ -120,7 +120,7 @@ def desmembrar_e_enviar_holerites(
     os.makedirs(pasta_destino, exist_ok=True)
 
     # Filtra empresa selecionada + ativos
-    filtro_empresa = (dados_usuarios["empresa"] == empresa_selecionada) & (dados_usuarios["ativo"] == True)
+    filtro_empresa = (dados_usuarios["Empresa"] == empresa_selecionada) & (dados_usuarios["Ativo"] == True)
     colaboradores_alvo = dados_usuarios[filtro_empresa].reset_index(drop=True)
 
     # Cria dicionário de consulta rápida por matrícula limpa
